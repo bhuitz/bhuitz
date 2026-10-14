@@ -16,6 +16,13 @@ Entry-level IT professional with a **B.S. in Cybersecurity** from Old Dominion U
 | [PowerShell AD Tools](https://github.com/bhuitz/powershell-ad-tools) | Scripts for bulk user creation, lockouts, password expiry, and inactive accounts |
 | [Linux Hardening](https://github.com/bhuitz/linux-hardening) | Bash scripts that harden and audit Ubuntu and Red Hat servers |
 
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Google AI Fundamentals | Google, via Coursera | Completed October 2026 · [Verify](https://coursera.org/verify/4IW4J2JREDGA) |
+| CompTIA Security+ | CompTIA | In progress |
+
 ## Skills
 
 **Systems:** Windows, Windows Server, Microsoft 365, Active Directory, Linux
